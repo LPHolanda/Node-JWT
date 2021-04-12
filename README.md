@@ -2,6 +2,7 @@
 [![NPM](https://img.shields.io/badge/npm-6.14.6-green?style=for-the-badge)](https://www.npmjs.com/)
 [![JWT](https://img.shields.io/badge/jwt-8.5.1-cyan?style=for-the-badge)](https://www.npmjs.com/package/jsonwebtoken)
 [![Redis](https://img.shields.io/badge/redis-3.0.500-red?style=for-the-badge)](https://github.com/microsoftarchive/redis)
+[![Nodemailer](https://img.shields.io/badge/nodemailer-6.4.8-green?style=for-the-badge)](https://nodemailer.com/about)
 [![LPHolanda](https://img.shields.io/badge/dev-LPHolanda-blue?style=for-the-badge)](https://github.com/LPHolanda)
 
 
