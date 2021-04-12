@@ -16,9 +16,22 @@
 - Tratamento de erros na autenticação.
 - Tempo de expiração do token.
 - Logout utilizando blacklist de tokens com o banco NoSQL Redis.
+- Refresh Tokens.
+- Verificação de token por email (email de produção e desenvolvimento).
 
+## Execução
+Primeiro, rode o seguinte comando dentro da pasta raiz para baixar todas as dependências listadas no arquivo package.json.
+```bash
+$  npm install
+```  
 
-Comando usado para gerar uma chave de assinatura aleatória com npm
+Após a instalação das dependências, rode o seguinte comando para iniciar o servidor node.
+```bash
+$  npm start
+```  
+
+### Comandos
+Comando usado para gerar uma chave de assinatura aleatória com npm.
 ```bash
 $  node -e "console.log( require('crypto').randomBytes(256).toString('base64'))"
 ```  
